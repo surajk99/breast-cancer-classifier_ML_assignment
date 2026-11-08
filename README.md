@@ -41,7 +41,7 @@ three largest values).
 
 https://github.com/surajk99/breast-cancer-classifier_ML_assignment
 
-**Live Streamlit app:** `<PASTE STREAMLIT COMMUNITY CLOUD URL HERE AFTER DEPLOYMENT>`
+**Live Streamlit app:** `<https://2026aj05451-breast-cancer-classifier.streamlit.app/>`
 
 ```
 breast-cancer-classifier_ML_assignment/
